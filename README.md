@@ -8,7 +8,7 @@
 
 </br></br>
 
-# CometChat Kitchen Sink Sample App (React Native)
+# Implementation of CometChat App (React Native)
 
 [![Platform](https://img.shields.io/badge/Platform-ReactNative-brightgreen)](#)
 ![GitHub repo size](https://img.shields.io/github/repo-size/cometchat-pro/react-native-chat-app)

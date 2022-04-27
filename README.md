@@ -10,13 +10,6 @@
 
 # Implementation of CometChat App (React Native)
 
-[![Platform](https://img.shields.io/badge/Platform-ReactNative-brightgreen)](#)
-![GitHub repo size](https://img.shields.io/github/repo-size/cometchat-pro/react-native-chat-app)
-![GitHub contributors](https://img.shields.io/github/contributors/cometchat-pro/react-native-chat-app)
-![GitHub stars](https://img.shields.io/github/stars/cometchat-pro/react-native-chat-app?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/cometchat?style=social)
-</br></br>
-
 <div style="width:100%">
     <div style="width:50%; display:inline-block">
         <div align="center">
